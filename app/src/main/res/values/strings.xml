@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyMovieApp</string>
+    <string name="search_film">What movie are you looking for?</string>
+</resources>
