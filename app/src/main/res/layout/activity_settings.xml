@@ -24,6 +24,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Settings"
+                    android:fontFamily="@font/poppins"
                     android:textColor="@android:color/white"
                     android:textSize="18sp"
                     android:textStyle="bold" />
@@ -107,6 +108,7 @@
         android:layout_margin="30dp"
         android:background="@drawable/rounded_rect"
         android:backgroundTint="@color/colorPrimary"
+        android:fontFamily="@font/poppins"
         android:text="Change Language"
         android:textColor="@android:color/white"
         android:textSize="14sp" />

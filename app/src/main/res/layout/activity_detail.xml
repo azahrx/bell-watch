@@ -119,7 +119,7 @@
                                     android:layout_height="wrap_content"
                                     android:layout_alignParentStart="true"
                                     android:layout_centerInParent="true"
-                                    android:text="Rating :"
+                                    android:text="Rating"
                                     android:textColor="@android:color/white"
                                     android:textSize="14sp" />
 
