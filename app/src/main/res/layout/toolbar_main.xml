@@ -14,11 +14,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
+            android:paddingTop="3dp"
             android:fontFamily="@font/poppins"
             android:text="Bell Watch"
-            android:textColor="#D6B71E"
-            android:textSize="26sp"
-            android:textStyle="bold" />
+            android:textColor="@color/white"
+            android:textSize="24sp" />
 
         <ImageView
             android:id="@+id/imgNotification"
