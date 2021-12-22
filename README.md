@@ -7,7 +7,7 @@ The app is created using
 + Java
 
 ## Backend API
-TheMovieDB API to fetch data for movies and TV shows.
+API used for backend to fetch data for movies and TV shows is from [TheMovieDB](https://developers.themoviedb.org/4/getting-started/authorization)
 
 ## Features
 + List of movies and TV shows
@@ -23,5 +23,5 @@ TheMovieDB API to fetch data for movies and TV shows.
 ## Feature Graphic
 ![feature horizontal](https://user-images.githubusercontent.com/56218043/147124084-34872180-484f-463a-aa59-471e2efe9300.png)
 
-# Phone Preview
+## Phone Preview
 ![phone features](https://user-images.githubusercontent.com/56218043/147124122-2e65e01b-635d-423d-a035-8d758e5346b1.png)
