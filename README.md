@@ -6,6 +6,9 @@ The app is created using
 + Android Studio
 + Java
 
+## App Link
+[Click here to Bell Watch App](https://play.google.com/store/apps/details?id=com.main.mymovieapp)
+
 ## Backend API
 API used for backend to fetch data for movies and TV shows is from [TheMovieDB](https://developers.themoviedb.org/4/getting-started/authorization)
 
