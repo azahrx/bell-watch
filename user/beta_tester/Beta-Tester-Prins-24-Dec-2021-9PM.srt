@@ -1,0 +1,779 @@
+﻿1
+00:00:04,930 --> 00:00:07,750
+Assalamualaikum warahmatullahi wabarakatuh 
+
+2
+00:00:07,820 --> 00:00:11,080
+Nama saya Fathimah Az Zahra dengan
+
+3
+00:00:11,100 --> 00:00:16,189
+NIM 1313618012 dari Universitas Negeri Jakarta
+
+4
+00:00:16,200 --> 00:00:21,189
+jurusan ilmu komputer di sini saya akan melakukan
+
+5
+00:00:21,200 --> 00:00:26,590
+demo atau user testing dari aplikasi Bell Watch untuk memenuhi
+
+6
+00:00:26,600 --> 00:00:32,490
+tugas mobile computing dari semester
+
+7
+00:00:32,500 --> 00:00:33,290
+115
+
+8
+00:00:35,500 --> 00:00:42,290
+dengan ajaran Pak Eka Suryana pertama-tama
+
+9
+00:00:42,300 --> 00:00:47,390
+Saya sudah melakukan user testing kepada user tester kedua atau
+
+10
+00:00:47,400 --> 00:00:54,290
+beta tester akan saya presentasikan testingnya
+
+11
+00:00:54,300 --> 00:00:59,290
+karena sebelumnya user telah mendownload
+
+12
+00:00:59,300 --> 00:01:04,989
+menginstal aplikasi sesuai dengan Link yang saya berikan berikut
+
+13
+00:01:05,000 --> 00:01:05,589
+adalah
+
+14
+00:01:09,000 --> 00:01:14,289
+video dari user testing beta yang kedua atau
+
+15
+00:01:14,300 --> 00:01:14,789
+yang kedua
+
+16
+00:01:46,800 --> 00:01:52,289
+berikut adalah beta tester yang kedua yaitu Prins Alvino
+
+17
+00:01:57,500 --> 00:02:02,589
+nama saya Prins Alvino dan
+
+18
+00:02:02,600 --> 00:02:07,589
+saya suka banget nonton film lebih
+
+19
+00:02:07,600 --> 00:02:12,890
+ke action movie biasanya dan teman saya ini kasih
+
+20
+00:02:12,900 --> 00:02:16,490
+tahu ada aplikasi baru bernama ya Bell Watch yang bisa ngasih tahu
+
+21
+00:02:16,500 --> 00:02:24,190
+tentang film kita buka aja Oke designnya
+
+22
+00:02:24,200 --> 00:02:28,990
+Keliatannya bagus ada yang now playing pengen banget nonton spider-man
+
+23
+00:02:29,000 --> 00:02:37,390
+terus kita lihat lagi ya ada
+
+24
+00:02:37,400 --> 00:02:42,490
+tv show juga udah oh ada hawkeye
+
+25
+00:02:42,500 --> 00:02:44,890
+ini banyak film bagus sih yang ditayangin.
+
+26
+00:02:44,900 --> 00:02:51,090
+Oh
+
+27
+00:02:51,100 --> 00:02:56,630
+bisa masukin favorit juga designnya overall oke
+
+28
+00:02:56,660 --> 00:03:04,790
+coba kita favorit dulu Oke keliatan juga semuanya
+
+29
+00:03:04,800 --> 00:03:10,860
+di sini informasi memberikan banyak juga sinopsisnya jelas
+
+30
+00:03:10,930 --> 00:03:15,490
+oh ada banyak video trailer oh bakal buka ke
+
+31
+00:03:15,500 --> 00:03:16,090
+Youtube
+
+32
+00:03:20,190 --> 00:03:22,190
+bagus
+
+33
+00:03:23,700 --> 00:03:28,990
+app nya mulus sih jalannya informasi juga cukup banyak
+
+34
+00:03:29,000 --> 00:03:31,390
+trailer sama teaser di satu
+
+35
+00:03:33,100 --> 00:03:35,190
+1 film
+
+36
+00:03:38,400 --> 00:03:38,890
+oke
+
+37
+00:03:41,300 --> 00:03:44,890
+Oh kok Nggak salah kok di sini notif juga
+
+38
+00:03:47,900 --> 00:03:54,990
+Ada daily  reminder sepertinya Oke overall saya
+
+39
+00:03:55,000 --> 00:04:00,090
+kasih 4,5 sih karena bisa melihat film
+
+40
+00:04:00,100 --> 00:04:04,590
+yang paling baru ngasih di reminder juga terus reminder buat
+
+41
+00:04:04,600 --> 00:04:10,190
+upcoming film bisa nge bookmark juga jadi ya bagus-bagus.
+
+42
+00:04:14,400 --> 00:04:17,990
+jadi itu adalah
+
+43
+00:04:20,100 --> 00:04:24,590
+user tester kedua yaitu Prins Alvino saat ini saya akan
+
+44
+00:04:24,600 --> 00:04:29,690
+mengundang user tester kedua untuk join di meet ini
+
+45
+00:05:35,700 --> 00:05:42,290
+Halo selamat malam Halo assalamualaikum
+
+46
+00:05:42,490 --> 00:05:47,890
+Selamat malam kepada user tester kedua yaitu
+
+47
+00:05:48,000 --> 00:05:51,190
+bisa disebutkan sebelumnya,
+
+48
+00:05:51,200 --> 00:05:55,590
+nama pekerjaan dan background background lainnya yang bisa
+
+49
+00:05:55,600 --> 00:05:59,610
+Sebutkan pada user tester kedua
+
+50
+00:05:59,630 --> 00:06:06,290
+nama saya Prins Alvino Roland saya adalah
+
+51
+00:06:06,300 --> 00:06:07,190
+a.
+
+52
+00:06:07,200 --> 00:06:12,490
+Computer science students tahun keempat akan bekerja pekerjaan saya sebagai
+
+53
+00:06:12,500 --> 00:06:14,190
+software tester.
+
+54
+00:06:16,600 --> 00:06:17,890
+Oke,
+
+55
+00:06:17,900 --> 00:06:22,990
+itu aja itu aja berarti untuk okupasi
+
+56
+00:06:23,000 --> 00:06:25,890
+sekarang sebagai student ya. Ya.
+
+57
+00:06:27,100 --> 00:06:32,390
+Sebelumnya untuk referensi aja dari
+
+58
+00:06:32,400 --> 00:06:37,390
+1 sampai 5.
+
+59
+00:06:37,400 --> 00:06:42,990
+Apakah bisa melakukannya testing dalam aplikasi mobile
+
+60
+00:06:43,000 --> 00:06:48,090
+dengan baik menggunakan ponsel Anda sendiri
+
+61
+00:06:48,100 --> 00:06:55,190
+saya bisa kasih 5 karena menurut
+
+62
+00:06:55,200 --> 00:07:01,590
+saya cukup baik untuk ponsel saya sendiri juga ya lanjutnya
+
+63
+00:07:01,600 --> 00:07:08,190
+bisa di-setting dari ponsel Anda dimulai dari link
+
+64
+00:07:08,200 --> 00:07:12,590
+ke Google Play untuk aplikasi Bell Watch
+
+65
+00:07:14,910 --> 00:07:16,910
+Oke
+
+66
+00:07:23,300 --> 00:07:27,380
+Udah ngeshare belum ya? Udah ada udah ada
+
+67
+00:07:30,080 --> 00:07:37,520
+Ini aplikasinya di playstore ya sebelumnya sebelum di open dari
+
+68
+00:07:37,500 --> 00:07:41,590
+video saya yang video yang telah saya play sebelumnya di
+
+69
+00:07:41,600 --> 00:07:46,090
+Google Meet ini sudah dijelaskan bahwa user tester kedua atau Prins Alvino ini
+
+70
+00:07:46,100 --> 00:07:51,090
+sudah melakukan testing beberapa hari yang lalu dengan
+
+71
+00:07:51,100 --> 00:07:55,590
+penginstalannya juga ada beberapa hari yang lalu jadi sekarang tinggal
+
+72
+00:07:55,600 --> 00:07:58,690
+di open lalu untuk
+
+73
+00:08:02,900 --> 00:08:09,690
+dari tampilan utama aplikasinya Apakah
+
+74
+00:08:11,100 --> 00:08:17,290
+tampilan utama yang dilihat dari user setelah membuka aplikasi sudah
+
+75
+00:08:17,300 --> 00:08:22,890
+puas dengan tampilan yang langsung ditampilkan atau belum
+
+76
+00:08:22,900 --> 00:08:28,890
+ada kesan-kesan yang tidak disukai itu apa nggak. suka semua sih
+
+77
+00:08:28,900 --> 00:08:34,090
+ keliatan banget Yang sekarang lagi main
+
+78
+00:08:34,100 --> 00:08:38,090
+film apa yang main di bioskop ya apalagi ini
+
+79
+00:08:38,100 --> 00:08:39,190
+film yang ditunggu-tunggu banget.
+
+80
+00:08:39,700 --> 00:08:44,790
+Jadi ada juga film
+
+81
+00:08:44,800 --> 00:08:47,790
+yang bagus yang saya nggak tahu sekarang saya tahu gitu.
+
+82
+00:08:47,800 --> 00:08:49,490
+Apa yang bisa saya tonton di bioskop
+
+83
+00:08:51,200 --> 00:08:56,290
+Baik berarti untuk tampilan utamanya sudah bagus ya untuk navigasi
+
+84
+00:08:56,300 --> 00:08:57,190
+dari tampilannya.
+
+85
+00:08:57,200 --> 00:09:02,490
+Apakah ada kesulitan dalam menavigasi dalam fitur-fitur
+
+86
+00:09:02,500 --> 00:09:05,990
+yang ada Udah jelas semua sih Tv show udah
+
+87
+00:09:06,000 --> 00:09:10,990
+Ya udah gampang semua navigation bar udah semua dibawah favorite
+
+88
+00:09:11,000 --> 00:09:15,590
+semua dan kalau pengen nge-search film juga ada search Bar
+
+89
+00:09:15,600 --> 00:09:17,180
+jadi ya helpful
+
+90
+00:09:19,700 --> 00:09:26,490
+Oke Baik berarti untuk navigasinya juga sudah bagus ya overall
+
+91
+00:09:26,500 --> 00:09:32,590
+sebelumnya untuk user experience dari Yang sudah di
+
+92
+00:09:32,600 --> 00:09:33,990
+alami dari user,
+
+93
+00:09:34,000 --> 00:09:37,490
+Apakah udah udah bagus juga maksudnya
+
+94
+00:09:39,800 --> 00:09:44,690
+anda sebagai tester yang sedang experience aplikasi Bell Watch ini apakah
+
+95
+00:09:44,700 --> 00:09:49,890
+sudah puas? puas sih Kalau bisa kasih
+
+96
+00:09:49,900 --> 00:09:54,990
+nilai 4 setengah. berarti 4 setengah ya
+
+97
+00:09:58,500 --> 00:09:59,290
+lalu
+
+98
+00:10:04,000 --> 00:10:09,990
+dari video Sebelumnya kan sudah di demonstrasikan notifikasinya
+
+99
+00:10:12,500 --> 00:10:19,290
+apabila user Prins bisa melakukan
+
+100
+00:10:19,300 --> 00:10:25,290
+demonstrasi dari fitur-fitur yang ada lagi apakah bisa-bisa
+
+101
+00:10:25,300 --> 00:10:29,690
+contohnya Like
+
+102
+00:10:30,850 --> 00:10:35,450
+terus ini bisa ditemuin di favorit
+
+103
+00:10:36,800 --> 00:10:41,790
+di sini movies terus sinopsis diperjelas di sini ada
+
+104
+00:10:41,800 --> 00:10:47,190
+semuanya trailer juga lengkap banget banyak
+
+105
+00:10:47,200 --> 00:10:50,790
+video-video tinggal diklik kalau pengen tahu sesuatu.
+
+106
+00:10:53,100 --> 00:10:58,990
+yah Tablet ini juga ada ada disini
+
+107
+00:10:59,000 --> 00:11:03,790
+menurut saya juga itu salah satu fitur yang paling penting
+
+108
+00:11:03,800 --> 00:11:08,790
+kalau saya pengen nonton film bisa saya liat ratingnya dulu ya
+
+109
+00:11:08,800 --> 00:11:14,890
+pertanyaan-pertanyaan yang saya belum sampaikan adalah background
+
+110
+00:11:14,900 --> 00:11:20,540
+dari movie yang atau tv shows yang disukai oleh user sebagai penyuka film 
+
+111
+00:11:20,600 --> 00:11:27,800
+Apakah ada movies atau tv shows yang anda suka?
+
+112
+00:11:29,000 --> 00:11:32,760
+Ada preferensi dari film yang Anda suka atau tv show yang anda suka
+
+113
+00:11:32,900 --> 00:11:37,590
+ biasanya saya nonton  action movies
+
+114
+00:11:37,600 --> 00:11:40,490
+atau enggak yang ratingnya bagus sih,
+
+115
+00:11:40,500 --> 00:11:42,790
+ya?
+
+116
+00:11:44,100 --> 00:11:49,390
+Berarti mostly ketika mau
+
+117
+00:11:49,400 --> 00:11:54,590
+nonton film atau TV series tuh lihat-lihat ratingnya dulu ya.
+
+118
+00:11:55,600 --> 00:12:00,890
+ya kalau untuk rilis date misalnya movie
+
+119
+00:12:00,900 --> 00:12:06,190
+upcoming movies kayak movie yang bakalan datang bakalan ada di
+
+120
+00:12:08,000 --> 00:12:13,390
+minggu depan itu misalnya minggu depan misalnya ada film dune part two
+
+121
+00:12:13,800 --> 00:12:18,990
+Apakah anda suka menunggunya bener bener
+
+122
+00:12:19,000 --> 00:12:24,290
+nungguin release datenya itu ? tergantung kalau misal kaya
+
+123
+00:12:24,300 --> 00:12:29,190
+spider-man itu yang waktu kan cukup terkenal gitu udah udah
+
+124
+00:12:29,200 --> 00:12:32,690
+nunggu Dari 2 minggu sebelumnya kita jadi kalau di dihafalin
+
+125
+00:12:32,700 --> 00:12:39,290
+buat release date cuman mungkin kalau film-film yang kayak matriks
+
+126
+00:12:39,300 --> 00:12:45,290
+atau Venom itu kayak nggak terlalu mikirin banget Oke berarti
+
+127
+00:12:45,300 --> 00:12:50,290
+tergantung film dan pada beberapa film yang anda tunggu ya
+
+128
+00:12:50,300 --> 00:12:54,490
+release datenya berarti untuk aplikasi ini apakah membantu anda dalam
+
+129
+00:12:54,500 --> 00:13:01,390
+ menunggu release datenya itu? Cukup
+
+130
+00:13:01,400 --> 00:13:06,690
+cukup membantu sih kelihatan juga release datenya kapan terus ada
+
+131
+00:13:06,700 --> 00:13:10,090
+notifikasi juga ya di sini jadi ada reminder gitu kalau
+
+132
+00:13:10,100 --> 00:13:15,190
+kalau ada movie yang saya
+
+133
+00:13:15,200 --> 00:13:17,190
+tunggu-tunggu gitu Yang bakal keluar.
+
+134
+00:13:17,280 --> 00:13:18,450
+cukup sangat membantu
+
+135
+00:13:18,400 --> 00:13:23,690
+Oke baik untuk pendapat dari language
+
+136
+00:13:23,700 --> 00:13:28,790
+yang digunakan Apakah ada saran misalnya itu
+
+137
+00:13:28,800 --> 00:13:32,190
+kan yang digunakan kan bahasa Inggris Apakah anda ingin mengubahnya
+
+138
+00:13:32,200 --> 00:13:37,190
+ke bahasa Indonesia atau referensi yang Anda Anda mau
+
+139
+00:13:37,200 --> 00:13:42,190
+saya sih cukup nyaman dengan bahasa
+
+140
+00:13:42,200 --> 00:13:46,190
+Inggris cuman kalau saya mau ganti kayaknya bisa juga sih
+
+141
+00:13:46,200 --> 00:13:51,790
+Di sini banyak juga pilihannya Berarti untuk feature language itu
+
+142
+00:13:51,800 --> 00:13:53,820
+juga sudah berjalan ya. Iya
+
+143
+00:13:54,630 --> 00:13:59,720
+Kembali lagi ke halaman Home dari anda sendiri
+
+144
+00:13:59,800 --> 00:14:05,290
+dari desain sama layout-nya yang akan cenderung Dark mode ini ya
+
+145
+00:14:05,300 --> 00:14:10,890
+ Apakah anda suka dengan pemilihan warnanya desain
+
+146
+00:14:10,900 --> 00:14:12,890
+nya layout-nya dari anda sendiri?
+
+147
+00:14:12,900 --> 00:14:17,990
+Saya emang lebih prefer dark mode si Enggak nyakitin mata terus
+
+148
+00:14:18,000 --> 00:14:22,890
+juga enak dilihat dilihat matanya Bordernya juga kelihatan tiap movienya spacenya juga
+
+149
+00:14:22,900 --> 00:14:28,890
+cukup jadi jarak bacanya jadi readable tiap
+
+150
+00:14:28,900 --> 00:14:34,190
+sectionnya cukup jadi.
+
+151
+00:14:35,700 --> 00:14:42,690
+Dari awal Anda menginstal aplikasi ini berarti untuk
+
+152
+00:14:42,700 --> 00:14:47,790
+mengetahui fitur-fiturnya apakah lama atau Anda mengalami kesulitan dalam
+
+153
+00:14:47,800 --> 00:14:53,990
+mengetahui fitur-fitur yang ada? nggak sih cukup
+
+154
+00:14:54,000 --> 00:15:00,690
+intuitif pencet movie apa yang  dimau juga bisa like
+
+155
+00:15:00,700 --> 00:15:05,590
+bisa masukin ke favorite, trailernya juga semuanya di sini, share button
+
+156
+00:15:05,600 --> 00:15:08,790
+nya juga bisa buat nge-share ke temen yang mungkin bisa
+
+157
+00:15:08,800 --> 00:15:14,390
+diajak mau nonton bareng Terus kalau mau sesuatu
+
+158
+00:15:14,400 --> 00:15:18,090
+yang pengen saya cari juga search barnya cukup di tengah ya
+
+159
+00:15:18,100 --> 00:15:19,890
+cukup langsung kelihatan saat login.
+
+160
+00:15:20,800 --> 00:15:25,790
+jadi cukup memuaskan. untuk search dan sharenya berarti
+
+161
+00:15:25,800 --> 00:15:31,890
+sudah berfungsi dengan baik ya Anda sudah. Ya sudah saya test juga
+
+162
+00:15:34,600 --> 00:15:36,290
+James bond atau yang lain
+
+163
+00:15:38,500 --> 00:15:45,290
+baik, sharenya juga sudah jalan? apanya ?untuk fitur sharenya
+
+164
+00:15:46,100 --> 00:15:53,990
+sharenya berjalan baik
+
+165
+00:15:54,000 --> 00:16:00,890
+akan maju ke kesimpulan atau overall ratingnya dari
+
+166
+00:16:02,000 --> 00:16:07,090
+Dari aplikasi Bell Watch ini apa yang Anda paling
+
+167
+00:16:07,100 --> 00:16:08,690
+suka dari aplikasinya?
+
+168
+00:16:08,700 --> 00:16:15,890
+Apakah designya atau lay out-nya atau informasinya atau fitur-fiturnya? Yang paling saya suka
+
+169
+00:16:15,900 --> 00:16:24,490
+lebih ke desain layout sama informasinya informasinya cukup-cukup
+
+170
+00:16:24,500 --> 00:16:29,590
+useful dia sinopsis mau disitu trailer juga semua
+
+171
+00:16:29,600 --> 00:16:33,190
+di situ release date nya jelas rating di situ yang menurut saya
+
+172
+00:16:33,200 --> 00:16:38,290
+sangat penting terus yang lainnya juga gampang
+
+173
+00:16:38,300 --> 00:16:43,290
+dibaca semuanya jelas jarak-jaraknya bawanya juga cukup
+
+174
+00:16:43,300 --> 00:16:45,590
+oke,
+
+175
+00:16:45,600 --> 00:16:48,390
+kalau itu kan untuk apa yang paling Anda suka ya,
+
+176
+00:16:48,400 --> 00:16:52,190
+kalau ada yang paling Anda tidak dari aplikasi Bell Watchnya apa?
+
+177
+00:16:53,100 --> 00:16:58,590
+Nggak mungkin trailernya  ini banyak repetitive
+
+178
+00:16:58,600 --> 00:17:01,890
+teks gitu mungkin jadi kayak mungkin Bisa disatuin atau
+
+179
+00:17:01,900 --> 00:17:06,990
+klipnya juga ya mungkin
+
+180
+00:17:07,000 --> 00:17:12,089
+karena itu diambil dari database jadi link nya itu langsung
+
+181
+00:17:12,099 --> 00:17:17,690
+misalnya Kalau film venom ini kan bloopers
+
+182
+00:17:17,700 --> 00:17:23,190
+dan trailernya banyak jadi yang diberikan
+
+183
+00:17:23,200 --> 00:17:28,590
+di detailnya itu  banyak seperti itu. Jadi untuk
+
+184
+00:17:28,600 --> 00:17:35,090
+penilaian dari 1-5 dari
+
+185
+00:17:35,100 --> 00:17:35,490
+anda sendiri.
+
+186
+00:17:35,500 --> 00:17:39,490
+Apakah anda akan merekomendasikan ke teman Anda dari 1-5?
+
+187
+00:17:40,700 --> 00:17:46,390
+ya 4 setengah. lebih ke
+
+188
+00:17:46,400 --> 00:17:49,890
+share seperti ini juga bisa pengen nonton bareng beli gampang
+
+189
+00:17:49,900 --> 00:17:55,190
+buat tunjukin ke teman saya Apalagi untuk sehari-hari anda
+
+190
+00:17:55,200 --> 00:18:04,490
+untuk menonton film dan TV show ya 
+
+191
+00:18:04,500 --> 00:18:10,790
+Terima kasih atas masukan waktu dan insight
+
+192
+00:18:10,800 --> 00:18:16,690
+yang diberikan dari user tester kedua yaitu Prins Alvino dari
+
+193
+00:18:16,700 --> 00:18:23,590
+screensharenya bisa di stop atau dikeluarin dan dari
+
+194
+00:18:23,600 --> 00:18:28,690
+anda sendiri juga dipersilahkan kalau ingin keluar meet.
+
+195
+00:18:28,700 --> 00:18:33,290
+Terima kasih atas waktunya Selamat malam Samasama, selamat malam.

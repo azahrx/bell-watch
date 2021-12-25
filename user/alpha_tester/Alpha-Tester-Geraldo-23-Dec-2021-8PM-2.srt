@@ -1,0 +1,827 @@
+﻿1
+00:00:02,400 --> 00:00:04,890
+Apakah anda dapat melihat share screen saya?
+
+2
+00:00:09,300 --> 00:00:12,490
+ada? sudah ada sudah ada.
+
+3
+00:00:13,700 --> 00:00:15,890
+Oke jadi sekarang saya buka aplikasi Play Store
+
+4
+00:00:19,900 --> 00:00:23,189
+bukan dari Playstore dari Link yang saya berikan
+
+5
+00:00:32,100 --> 00:00:34,090
+misal kita sedang membuka Google Play
+
+6
+00:00:36,300 --> 00:00:41,390
+dari sini aja oke baik bisa dilihat
+
+7
+00:00:41,400 --> 00:00:47,290
+untuk para penonton yang menonton user testing
+
+8
+00:00:47,300 --> 00:00:52,490
+ini Kalau Bell Watch nya sudah dapat di-install dari Playstore
+
+9
+00:00:52,500 --> 00:00:57,790
+karena dikarenakan status dari Google Play console yang
+
+10
+00:00:57,800 --> 00:01:01,590
+masih production jadi belum bisa dicari di Google Play jadi
+
+11
+00:01:01,600 --> 00:01:08,589
+saya memberikan link kepada user tester pertama itu Geraldo sesuai
+
+12
+00:01:08,600 --> 00:01:12,589
+dari video yang sudah saya berikan sebelum nya.nah
+
+13
+00:01:12,600 --> 00:01:17,990
+sudah menginstal dan sudah mendapatkan notifikasi dari Daily reminder nya
+
+14
+00:01:18,000 --> 00:01:23,089
+Nah untuk pertama di bisa di open
+
+15
+00:01:23,100 --> 00:01:25,190
+aplikasinya oke
+
+16
+00:01:29,500 --> 00:01:31,390
+ya dari
+
+17
+00:01:33,600 --> 00:01:36,089
+Pembukaan aplikasinya sudah mulus,
+
+18
+00:01:36,100 --> 00:01:38,289
+Ya sudah bisa dijalankan.
+
+19
+00:01:38,300 --> 00:01:43,789
+Apakah user mendapatkan kesulitan dalam membuka aplikasinya?
+
+20
+00:01:44,700 --> 00:01:49,890
+Oh enggak saya sendiri berpendapat bahwa aplikasi dari
+
+21
+00:01:49,900 --> 00:01:54,190
+Bell Watch ini sangat lancar untuk dibuka tidak ada kendala sama
+
+22
+00:01:54,200 --> 00:01:54,589
+sekali.
+
+23
+00:01:55,500 --> 00:02:00,789
+baik untuk dari pertama
+
+24
+00:02:00,800 --> 00:02:05,990
+pembukaan aplikasinya sudah terdapat banyak list
+
+25
+00:02:06,000 --> 00:02:11,190
+film dan TV series bisa dilihat di bawah
+
+26
+00:02:11,200 --> 00:02:17,190
+untuk pembukaan TV Show dan fresh juga sudah ada apakah
+
+27
+00:02:17,200 --> 00:02:21,890
+ada yang kurang jelas dari tampilan utama tampilan pertama yang
+
+28
+00:02:21,900 --> 00:02:28,490
+dilihat dari pembukaan aplikasi? saya lihat kalau
+
+29
+00:02:28,500 --> 00:02:33,490
+misalnya aplikasi ini bagus ya kayak bisa jelas melihat
+
+30
+00:02:33,500 --> 00:02:37,990
+Kapan rilis date nya dari film dari film tersebut juga
+
+31
+00:02:38,000 --> 00:02:44,490
+kita bisa ngeliat ada tampilan sinopsisnya dari setiap film. Jelas untuk
+
+32
+00:02:44,500 --> 00:02:49,890
+dilihat juga enggak bertabrakan dengan latar belakang bagus.
+
+33
+00:02:50,800 --> 00:02:56,190
+Baik untuk pemilihan warnanya Apakah sesuai
+
+34
+00:02:56,200 --> 00:03:00,390
+dengan yang mau? atau ada saran untuk pemilihan warna
+
+35
+00:03:00,400 --> 00:03:04,690
+dan tata letak dari tampilan utamanya?
+
+36
+00:03:08,000 --> 00:03:12,090
+kalau saya lihat sih disini cukup menarik ya kita bisa
+
+37
+00:03:12,100 --> 00:03:17,390
+di atas ngeslide beberapa film yang mau kita cari ataupun
+
+38
+00:03:17,400 --> 00:03:21,290
+ataupun yang mau kita lihat terus di bawah juga
+
+39
+00:03:21,300 --> 00:03:26,490
+ada banyak wishlist film untuk background
+
+40
+00:03:26,500 --> 00:03:31,490
+sendiri saya ini sudah menurut saya sudah sangat sesuai dengan
+
+41
+00:03:31,500 --> 00:03:32,490
+apa yang saya mau
+
+42
+00:03:34,700 --> 00:03:42,190
+agar terlihat film ini terlihat jelas itu loh. berarti untuk user experience
+
+43
+00:03:42,200 --> 00:03:48,690
+yang Anda rasakan sudah baik? sudah baik
+
+44
+00:03:51,800 --> 00:03:57,090
+untuk ini kan masuk dalam demografi dari
+
+45
+00:03:57,100 --> 00:04:00,990
+atau demo aplikasi dari bell watch,
+
+46
+00:04:17,500 --> 00:04:22,590
+Sebelumnya dari user tersendiri Apakah
+
+47
+00:04:22,600 --> 00:04:27,990
+sebelumnya pernah melihat atau menggunakan
+
+48
+00:04:28,000 --> 00:04:31,690
+aplikasi yang sama atau mirip dengan bell watch?
+
+49
+00:04:33,000 --> 00:04:37,490
+Saya pribadi ini Pengalaman pertama saya mau download aplikasi di
+
+50
+00:04:37,500 --> 00:04:43,290
+mana saya bisa melihat banyak film dengan sinopsisnya
+
+51
+00:04:43,300 --> 00:04:47,290
+sendiri ataupun rilis date sebelumnya belum pernah menginstal paling Saya
+
+52
+00:04:47,300 --> 00:04:57,390
+hanya pernah menginstal aplikasi seperti netflix ataupun Disney hotstar dari
+
+53
+00:04:57,400 --> 00:05:02,660
+mostly itu ya streaming platform ya lebih ke sana. Betul
+
+54
+00:05:04,600 --> 00:05:05,690
+baik
+
+55
+00:05:10,600 --> 00:05:16,390
+sekarang kita menuju ke observation dari aplikasinya
+
+56
+00:05:16,400 --> 00:05:21,390
+untuk Jika anda melihat aplikasi ini
+
+57
+00:05:21,400 --> 00:05:26,490
+fitur utama dari aplikasi ini adalah notifikasi
+
+58
+00:05:26,500 --> 00:05:36,790
+dan detail dari Movies dan tv show Apakah saat
+
+59
+00:05:36,800 --> 00:05:42,090
+anda pertama kali membuka aplikasi ini apakah bisa
+
+60
+00:05:42,100 --> 00:05:46,590
+tahu di mana letak notifikasinya atau detailnya?
+
+61
+00:05:46,600 --> 00:05:50,650
+Apakah Anda langsung tahu tanpa perlu saya jelaskan?
+
+62
+00:05:51,500 --> 00:05:56,590
+Jadi pertama kali buka aplikasi ini saya udah langsung tahu
+
+63
+00:05:56,700 --> 00:06:00,790
+dek dari di pojok atas bisa terlihat jelas ada lambang
+
+64
+00:06:00,800 --> 00:06:05,390
+lonceng di situ kita bisa melihat dari ada settings bisa
+
+65
+00:06:05,400 --> 00:06:09,990
+set daily reminder ataupun change language dari aplikasi ini
+
+66
+00:06:10,000 --> 00:06:14,690
+habis itu kita juga langsung bisa terlihat jelas kita mau
+
+67
+00:06:14,700 --> 00:06:18,990
+cari film apa dari what are you looking for di bagian search disini kalau kita
+
+68
+00:06:19,000 --> 00:06:22,090
+juga di bagian bawah ada bagian movie ada bagian favorit.
+
+69
+00:06:22,100 --> 00:06:25,390
+Kalau ada pada bagian TV series.
+
+70
+00:06:25,400 --> 00:06:29,890
+Jadi Saya sendiri merasa bahwa saya dapat menjalankan aplikasi ini
+
+71
+00:06:29,900 --> 00:06:36,590
+tanpa perlu ada panduan yang lebih jelas gitu loh 
+
+72
+00:06:36,600 --> 00:06:38,010
+detail dari aplikasi ini.
+
+73
+00:06:38,500 --> 00:06:43,490
+berarti sudah baik juga ya untuk navigasi sendiri
+
+74
+00:06:43,500 --> 00:06:48,690
+untuk bahasa
+
+75
+00:06:48,700 --> 00:06:53,890
+yang digunakan bahasa Inggris ya, menurut anda bahasa Inggris ini
+
+76
+00:06:53,900 --> 00:06:56,790
+bahasa yang dalam aplikasi bell watch ini.
+
+77
+00:06:56,800 --> 00:07:00,890
+Apakah sudah sesuai atau perlu diganti?
+
+78
+00:07:02,700 --> 00:07:08,990
+saya kebetulan orang yang kalau misalnya Menjalankan aplikasi
+
+79
+00:07:09,000 --> 00:07:13,990
+atau sebagian besar dari aplikasi yang terinstal itu kebanyakan berbahasa
+
+80
+00:07:14,000 --> 00:07:19,490
+Inggris dan dari perbandingan dari aplikasi dengan aplikasi aplikasi
+
+81
+00:07:19,500 --> 00:07:23,590
+aplikasi yang sudah terinstal bahasa Inggris di aplikasi bel watch
+
+82
+00:07:23,600 --> 00:07:28,390
+ini menurut saya sudah sangat jelas dan sangat baik tidak
+
+83
+00:07:28,400 --> 00:07:31,990
+ada perlu yang diganti saya dapat mengerti jelas.
+
+84
+00:07:32,000 --> 00:07:38,990
+Apa yang dimaksud dari aplikasi ini gitu. Dari
+
+85
+00:07:39,000 --> 00:07:42,890
+awal kan sudah di bagian movies ya.
+
+86
+00:07:43,900 --> 00:07:48,990
+Kenapa dari anda sendiri nih kan Ambil utamanya
+
+87
+00:07:49,000 --> 00:07:52,190
+kan hanya movies dari anda sendiri kenapa?
+
+88
+00:07:52,200 --> 00:07:57,790
+Apakah tidak ingin untuk ke bagian tv?
+
+89
+00:07:57,800 --> 00:07:58,690
+Show atau favorite?
+
+90
+00:08:00,200 --> 00:08:06,390
+Oh boleh ya Saya juga suka dengan TV shows ataupun
+
+91
+00:08:09,200 --> 00:08:13,290
+TV Shows ataupun film ya cuman Kebetulan saya belum ada
+
+92
+00:08:13,300 --> 00:08:18,690
+masukin film ataupun TV kebagian favorit
+
+93
+00:08:24,800 --> 00:08:29,990
+sebelumnya di video Sebelumnya kan berarti di video
+
+94
+00:08:30,000 --> 00:08:35,390
+Sebelumnya saya sudah jelaskan kan Anda belum ke
+
+95
+00:08:35,400 --> 00:08:40,190
+detail lalu favorit salah satu dari movies dan TV shows
+
+96
+00:08:40,200 --> 00:08:47,790
+yang ada, anda bisa dipersilahkan buat mencoba
+
+97
+00:08:47,800 --> 00:08:54,290
+untuk favorit movies dan TV yang diinginkan Ini
+
+98
+00:08:54,300 --> 00:08:59,990
+contohnya Saya sangat menyukai tv show dari The Witcher di
+
+99
+00:09:00,000 --> 00:09:04,490
+sini saya akan menambahkan ini ke dalam favorit saya terus
+
+100
+00:09:04,500 --> 00:09:09,890
+saya juga di bagian film Saya menyukai spider-man home yang
+
+101
+00:09:09,900 --> 00:09:14,990
+baru yang baru saja merilis tambahkan juga ke favorit saya.
+
+102
+00:09:16,500 --> 00:09:21,790
+Terus kita lihat di favorite ada
+
+103
+00:09:21,800 --> 00:09:23,990
+terbagi 2 dari movie dan tv.
+
+104
+00:09:24,000 --> 00:09:28,990
+Show di sini terlihat jelas kita klik juga Detailnya ada
+
+105
+00:09:29,000 --> 00:09:35,090
+sinopsis juga popularity juga release date Juga teaser, feature
+
+106
+00:09:35,100 --> 00:09:40,490
+Clip juga ada tapi mungkin
+
+107
+00:09:44,800 --> 00:09:52,690
+yang saya sarankan dari aplikasi ini setelah diklik gitu di
+
+108
+00:09:52,700 --> 00:09:58,990
+bagian kita klik ini spider-man welcome favourites lalu
+
+109
+00:09:59,000 --> 00:10:03,390
+kita ke bagian favorit kita bisa ngeliat di bagian favorit
+
+110
+00:10:03,400 --> 00:10:08,790
+saya disini bagian hatinya ini nggak nyala tadi setelah diklik. Jadi
+
+111
+00:10:08,800 --> 00:10:09,990
+mungkin itu bisa diperbaiki.
+
+112
+00:10:11,400 --> 00:10:16,990
+mungkin itu sensitivitasnya masih belum di
+
+113
+00:10:17,000 --> 00:10:21,990
+harus diperbaiki ya karena Emang setiap diklik langsung masuk
+
+114
+00:10:22,000 --> 00:10:26,990
+dan setiap Di unclick langsung keluar gitu berarti
+
+115
+00:10:27,000 --> 00:10:32,190
+untuk fitur favorit sudah berjalan lancar dengan saran
+
+116
+00:10:32,200 --> 00:10:38,890
+penggantian warna dari movies atau TVshows
+
+117
+00:10:38,900 --> 00:10:44,190
+yang telah di favorit untuk fitur
+
+118
+00:10:44,200 --> 00:10:49,390
+dari share apakah mendapat kesulitan dari
+
+119
+00:10:49,400 --> 00:10:49,990
+misalnya
+
+120
+00:10:55,200 --> 00:10:57,590
+ngeshare salah satu Movie atau tv show?
+
+121
+00:11:00,400 --> 00:11:04,290
+Saya kita bisa lihat di sini kita mau bagikan.
+
+122
+00:11:05,600 --> 00:11:13,090
+TV series favorit saya ke berbagai aplikasi misalnya ada discord
+
+123
+00:11:15,100 --> 00:11:17,290
+Ya sudah bisa ya
+
+124
+00:11:23,600 --> 00:11:28,590
+apabila untuk detail di bagian detail
+
+125
+00:11:28,600 --> 00:11:31,090
+Kini kita akan menuju ke bagian detail sini.
+
+126
+00:11:31,100 --> 00:11:34,390
+Apakah informasi yang diberikan sudah jelas?
+
+127
+00:11:36,100 --> 00:11:41,590
+Ya saya rasa Sudah Cukup jelas di bagian sinopsis dapat
+
+128
+00:11:41,600 --> 00:11:45,590
+terlihat jelas lalu juga yang ada rating popularity dan release
+
+129
+00:11:45,600 --> 00:11:51,290
+date sudah sudah jelas mungkin yang bisa diperbaiki juga dari
+
+130
+00:11:51,300 --> 00:11:51,690
+sini.
+
+131
+00:11:53,500 --> 00:11:59,290
+List dari behind the scenes maupun tulisan beberapa
+
+132
+00:11:59,300 --> 00:12:04,890
+ada yang double mungkin itu bisa diperbaiki dikarenakan
+
+133
+00:12:04,900 --> 00:12:10,190
+itu kan udah diambil dari database dan untuk series
+
+134
+00:12:10,200 --> 00:12:15,390
+Hawkeye popularitynya agak tinggi ya. Jadi ke sini
+
+135
+00:12:15,400 --> 00:12:19,090
+nggak cuma satu. Oh oke
+
+136
+00:12:19,100 --> 00:12:23,890
+Oke kalau begitu mungkin bisa diperbaiki misalnya di sini ada
+
+137
+00:12:23,900 --> 00:12:30,890
+teaser 123. berarti namanya?  Iya
+
+138
+00:12:30,900 --> 00:12:36,090
+betul. untuk link
+
+139
+00:12:36,100 --> 00:12:41,290
+dari teaser atau behind the scene apa ada kesulitan untuk mengkliknya?
+
+140
+00:12:42,200 --> 00:12:43,390
+Oke boleh
+
+141
+00:12:49,900 --> 00:12:54,390
+udah saya klik dari sini langsung ke Kedirect cepat ya
+
+142
+00:12:54,400 --> 00:13:02,590
+Kita juga Coba klik bagian teaser. bagus
+
+143
+00:13:02,600 --> 00:13:08,090
+bagus juga terus kebagian klip ya
+
+144
+00:13:14,900 --> 00:13:20,690
+bagus menurut saya lancar. berarti link dari
+
+145
+00:13:20,700 --> 00:13:25,190
+trailer yang diberikan sudah dapat dinavigasikan dengan baik ya
+
+146
+00:13:27,300 --> 00:13:29,590
+untuk
+
+147
+00:13:33,200 --> 00:13:37,290
+untuk user Apakah bisa Kembali ke home?
+
+148
+00:13:39,500 --> 00:13:44,890
+boleh. dan di tombol
+
+149
+00:13:44,900 --> 00:13:46,790
+lonceng itu bisa diklik
+
+150
+00:13:52,300 --> 00:13:56,090
+untuk perubahan language berarti bisa ya?
+
+151
+00:13:57,300 --> 00:14:04,090
+dapat diklik? Ya kembali lagi ke
+
+152
+00:14:04,100 --> 00:14:13,990
+aplikasinya. berarti semua fitur yang ada sudah dapat berjalan dengan
+
+153
+00:14:14,000 --> 00:14:14,990
+lancar dan baik.
+
+154
+00:14:19,400 --> 00:14:24,390
+untuk dari home Apakah ingin mencoba mencari
+
+155
+00:14:24,400 --> 00:14:25,590
+movies dan tv show?
+
+156
+00:14:27,800 --> 00:14:31,290
+misalnya kita cari film
+
+157
+00:14:36,500 --> 00:14:39,790
+itu typo ya harusnya ada C nya.
+
+158
+00:14:41,900 --> 00:14:47,490
+Oh ya betul. berarti udah ada ya
+
+159
+00:14:50,200 --> 00:14:55,390
+Oke baik kita akan maju ke kesimpulannya
+
+160
+00:14:55,400 --> 00:15:00,290
+dari produk aplikasi ini apakah?
+
+161
+00:15:01,900 --> 00:15:09,990
+apa yang paling disuka dari user tester Geraldo apabila
+
+162
+00:15:10,000 --> 00:15:16,990
+suka pada navigasinya atau layout nya atau pemilihan warnanya
+
+163
+00:15:17,000 --> 00:15:22,990
+atau background nya? yang saya suka dari aplikasi ini itu
+
+164
+00:15:23,000 --> 00:15:26,290
+Layoutnya ya,
+
+165
+00:15:26,300 --> 00:15:31,790
+jadi kayak saya merasa aplikasi ini berguna
+
+166
+00:15:31,800 --> 00:15:35,190
+buat saya kalau misalnya Saya mau tahu kapan film yang
+
+167
+00:15:35,200 --> 00:15:40,490
+saya inginkan. Rilis juga dari background
+
+168
+00:15:40,500 --> 00:15:46,690
+warnanya juga saya suka pemilihan warnanya saya dapat melihat film-film
+
+169
+00:15:46,700 --> 00:15:51,790
+ataupun Tv series dengan jelas tanpa ada
+
+170
+00:15:51,800 --> 00:15:58,290
+tabrakan dari warna dari film tersebut Saya juga suka fitur-fiturnya
+
+171
+00:15:58,300 --> 00:16:04,890
+dari setiap film ataupun di tv series cukup lengkap kalau
+
+172
+00:16:04,900 --> 00:16:09,990
+misalnya saya penasaran gimana sih trailernya soalnya saya dapat mengklik
+
+173
+00:16:10,000 --> 00:16:12,790
+juga saya langsung ke dari dia jadi saya tidak perlu
+
+174
+00:16:12,800 --> 00:16:13,590
+mencari.
+
+175
+00:16:15,000 --> 00:16:21,390
+satu satu di internet gitu loh. Baik berarti paling
+
+176
+00:16:21,400 --> 00:16:26,590
+suka layoutnya ya lalu dengan yang
+
+177
+00:16:26,600 --> 00:16:31,790
+tidak disukai? apabila yang tidak disukai warnanya
+
+178
+00:16:31,800 --> 00:16:38,690
+atau apanya? mungkin sebentar
+
+179
+00:16:44,300 --> 00:16:50,190
+dapat diabaikan aja mungkin yang bisa
+
+180
+00:16:50,200 --> 00:16:53,990
+diperbaiki kalau misalnya kayak kita ke movie ini mungkin bisa
+
+181
+00:16:54,000 --> 00:16:58,790
+ditambahin now playing movie di atas judul ataupun TV series.
+
+182
+00:16:58,800 --> 00:17:05,089
+Jadi now playing tv series terus mungkin bisa
+
+183
+00:17:05,099 --> 00:17:12,890
+diganti juga kan ada kayak film-film atau yang
+
+184
+00:17:12,900 --> 00:17:14,290
+belum muncul.
+
+185
+00:17:15,500 --> 00:17:17,490
+Belum playing,
+
+186
+00:17:17,500 --> 00:17:22,589
+kalau belum rilis, bisa diubah perbedaan antara
+
+187
+00:17:22,599 --> 00:17:26,589
+yang belum release ataupun yang now playing. mungkin itu sih saran dan masukan
+
+188
+00:17:26,599 --> 00:17:31,590
+dari saya yang tadi yang terakhir yang tadi saya
+
+189
+00:17:31,600 --> 00:17:32,890
+misalnya udah tambah jadi favorit.
+
+190
+00:17:37,500 --> 00:17:40,590
+lambang hati ini masih tetap nyala gitu
+
+191
+00:17:51,000 --> 00:17:57,790
+Dari 1 sampai 5 Bagaimana
+
+192
+00:17:57,800 --> 00:18:03,290
+dari user tester sendiri pendapatnya, apakah dapat
+
+193
+00:18:03,300 --> 00:18:07,790
+merekomendasikan produk ini ke teman?
+
+194
+00:18:10,000 --> 00:18:16,090
+Sebagai penyuka film dan juga TV series yang yang
+
+195
+00:18:16,100 --> 00:18:19,390
+kebetulan saya juga sering mencari informasi dari setiap film dan
+
+196
+00:18:19,400 --> 00:18:24,090
+televisi yang saya sukai saya saya dapat dengan mudah merekomendasikan
+
+197
+00:18:24,100 --> 00:18:26,490
+aplikasi ini kepada teman saya.
+
+198
+00:18:27,800 --> 00:18:33,190
+menurut saya penilaian Saya dari aplikasi 4.
+
+199
+00:18:34,100 --> 00:18:37,890
+Karena juga ada beberapa hal yang perlu diperbaiki ya.
+
+200
+00:18:38,600 --> 00:18:39,290
+Iya.
+
+201
+00:18:42,500 --> 00:18:47,690
+Baik berarti secara keseluruhan sudah untuk user testing
+
+202
+00:18:47,700 --> 00:18:52,790
+dari Geraldo Terima kasih atas masukan dan waktunya
+
+203
+00:18:52,800 --> 00:18:58,190
+kepada user tester dipersilahkan
+
+204
+00:18:58,200 --> 00:19:03,190
+atau diperbolehkan untuk keluar dari
+
+205
+00:19:03,200 --> 00:19:08,890
+memberhentikan share screen ataupun keluar dari sini
+
+206
+00:19:08,900 --> 00:19:15,190
+juga tidak apa-apa Oke terima kasih atas waktunya selamat
+
+207
+00:19:15,200 --> 00:19:15,890
+malam.

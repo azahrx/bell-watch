@@ -1,0 +1,363 @@
+﻿1
+00:00:00,000 --> 00:00:10,330
+Sebelumnya mohon maaf saya memakai akun Google teman saya agar bisa merekam
+
+2
+00:00:10,520 --> 00:00:16,290
+Assalamualaikum
+
+3
+00:00:16,300 --> 00:00:17,990
+warahmatullahi wabarakatuh.
+
+4
+00:00:18,000 --> 00:00:22,290
+Nama saya Fatimah az-zahra dengan mim 13 13 6 1
+
+5
+00:00:22,300 --> 00:00:27,290
+8 10 12 dari Universitas Negeri Jakarta jurusan ilmu komputer
+
+6
+00:00:27,300 --> 00:00:32,790
+2018 di sini saya akan melakukan user testing terhadap
+
+7
+00:00:32,800 --> 00:00:37,790
+aplikasi Android yang telah saya buat untuk memenuhi
+
+8
+00:00:37,800 --> 00:00:43,890
+tugas mobile computing yang pada
+
+9
+00:00:43,900 --> 00:00:45,790
+semester 115
+
+10
+00:00:48,900 --> 00:00:53,690
+sebelumnya akan saya jelaskan aplikasi yang akan di testing yaitu
+
+11
+00:00:53,700 --> 00:00:58,790
+bernama Bell Watch, ini adalah aplikasi yang
+
+12
+00:00:58,800 --> 00:01:00,890
+memungkinkan user untuk
+
+13
+00:01:03,100 --> 00:01:09,589
+melihat dan favorit detail
+
+14
+00:01:09,600 --> 00:01:14,589
+dari movies dan tv show atau film dan
+
+15
+00:01:14,600 --> 00:01:20,390
+serial TV yang diinginkan yang
+
+16
+00:01:20,400 --> 00:01:25,490
+disukai oleh user dan fitur-fiturnya terdapat banyak
+
+17
+00:01:25,500 --> 00:01:29,289
+fitur yang ada di watch itu seperti
+
+18
+00:01:32,400 --> 00:01:38,089
+detail yang terdiri dari favorite teaser trailer clips
+
+19
+00:01:38,100 --> 00:01:44,190
+dan dalam aplikasi ini terdapat dua terdapat
+
+20
+00:01:44,200 --> 00:01:49,190
+opsi untuk mengubah bahasa membagikan detail
+
+21
+00:01:49,200 --> 00:01:54,390
+dari movies dan TV Show dan bisa mencari movies
+
+22
+00:01:54,400 --> 00:01:59,589
+dan TV show yang lalu fitur utamanya
+
+23
+00:01:59,600 --> 00:02:04,890
+adalah terdapat notifikasi sebagai daily
+
+24
+00:02:04,900 --> 00:02:11,490
+reminder dan pada release date. sebelumnya user pertama
+
+25
+00:02:11,500 --> 00:02:16,190
+itu telah dilakukan oleh
+
+26
+00:02:18,600 --> 00:02:23,790
+Geraldo Firmanuel dan berikut
+
+27
+00:02:23,800 --> 00:02:28,090
+akan saya presentasikan testing pertamanya
+
+28
+00:02:53,530 --> 00:03:04,260
+Selama malam, saya Geraldo Firmanuel Renaldi disini saya selaku tester dari aplikasi Bell Watch
+
+29
+00:03:04,310 --> 00:03:09,150
+Disini bisa kita liat design logo aplikasinya ada gambar lonceng dan film
+
+30
+00:03:09,240 --> 00:03:17,030
+Saya juga mendapat notifikasi berupa Ada kejutan hari ini dari Bell Watch mari kita click. Ya
+
+31
+00:03:17,160 --> 00:03:20,620
+Dari notifikasi tersebut langsung didirect ke aplikasinya
+
+32
+00:03:27,380 --> 00:03:33,440
+Disini kita bisa melihat ada berbagai kumpulan film, TV shows, berbagai entertainment
+
+33
+00:03:34,840 --> 00:03:41,270
+Disini kita juga dapat memperoleh teaser dan juga film dari entertainment yang ingin ditonton.
+
+34
+00:03:49,700 --> 00:03:55,990
+Saya juga merasakan pada saat saya scroll di aplikasinya
+
+35
+00:03:56,000 --> 00:04:01,190
+mulus ya nggak ada lag atau gimana lancar
+
+36
+00:04:01,200 --> 00:04:06,190
+semuanya, saya juga
+
+37
+00:04:06,200 --> 00:04:11,990
+ngeliat informasi yang diberikan dari aplikasi bagus seperti
+
+38
+00:04:12,000 --> 00:04:17,490
+Spiderman no way home disini ada informasi
+
+39
+00:04:17,500 --> 00:04:22,690
+sinopsis dari filmnya. cukup bagus sih kita  dapat lihat motionnya
+
+40
+00:04:22,700 --> 00:04:25,590
+Motion spiderman di atas bisa dilihat.
+
+41
+00:04:32,420 --> 00:04:38,090
+Bisa melihat populasinya berapa ada juga di sebut juga rating dari film tersebut
+
+42
+00:04:38,100 --> 00:04:39,690
+8,6
+
+43
+00:04:39,700 --> 00:04:44,790
+per 10 yang saya pikir diambil dari IMDb
+
+44
+00:04:44,800 --> 00:04:50,390
+saya rasa aplikasinya terbagus untuk dapat digunakan user
+
+45
+00:04:50,400 --> 00:04:57,790
+sebagai hiburan dan
+
+46
+00:04:57,800 --> 00:04:59,490
+sekian dari saya terima kasih.
+
+47
+00:05:10,600 --> 00:05:16,890
+jadi tadi adalah user testing
+
+48
+00:05:16,900 --> 00:05:20,990
+pertama yang dilakukan oleh Geraldo Immanuel nah saat ini saya
+
+49
+00:05:21,000 --> 00:05:26,490
+akan mengundang disertai user tester pertama itu ke
+
+50
+00:05:26,500 --> 00:05:27,790
+Google Meet ini.
+
+51
+00:06:29,500 --> 00:06:38,190
+Halo
+
+52
+00:06:38,200 --> 00:06:41,390
+selamat malam kepada user tester pertama
+
+53
+00:06:46,100 --> 00:06:46,790
+halo
+
+54
+00:06:57,100 --> 00:06:58,890
+apakah suaranya masuk
+
+55
+00:07:05,900 --> 00:07:06,690
+halo
+
+56
+00:07:09,200 --> 00:07:13,590
+halo Halo apakah suara saya masuk?
+
+57
+00:07:14,900 --> 00:07:21,290
+Ya suara Anda masuk. Baik akan saya mulai user testingnya
+
+58
+00:07:21,300 --> 00:07:26,390
+pertama-tama mungkin untuk perkenalan dari user
+
+59
+00:07:26,400 --> 00:07:31,590
+tester pertamanya kepada user tester pertama dipersilahkan
+
+60
+00:07:31,600 --> 00:07:37,690
+menyebutkan nama background seperti okupasi (pekerjaan)
+
+61
+00:07:37,700 --> 00:07:44,590
+atau apa saja yang ini Sebutkan Perkenalkan nama saya Geraldo
+
+62
+00:07:44,600 --> 00:07:50,190
+Firmanuel Renaldi Saya seorang pelajar Saat ini saya sedang
+
+63
+00:07:50,200 --> 00:07:55,190
+berkuliah atau belajar di University of
+
+64
+00:07:55,200 --> 00:08:01,590
+Applied Science, Hannover, Jerman. saat ini saya juga
+
+65
+00:08:01,600 --> 00:08:09,190
+sedang mempelajari dibidang mekatronik mechanical engineering and elektronik saya berumur
+
+66
+00:08:09,200 --> 00:08:14,190
+21 tahun Saya berasal dari Jakarta terima kasih.
+
+67
+00:08:14,200 --> 00:08:19,690
+Terima kasih untuk perkenalannya sebagai
+
+68
+00:08:19,700 --> 00:08:25,490
+user tester dari aplikasi Bell Watch. Apakah Geraldo
+
+69
+00:08:25,500 --> 00:08:31,290
+sering Apakah anda sering nonton film dan TV series
+
+70
+00:08:31,300 --> 00:08:36,390
+yang biasanya kan kalau nonton movies dan TV itu menunggu
+
+71
+00:08:36,400 --> 00:08:40,990
+rilis date-nya ya Misalnya 2 minggu dari sekarang atau 1
+
+72
+00:08:41,000 --> 00:08:46,390
+bulan dari sekarang atau mungkin tahun-tahun berikutnya itu apakah
+
+73
+00:08:46,400 --> 00:08:53,790
+Anda menunggu rilis dari movies dan tv show? Kebetulan
+
+74
+00:08:53,800 --> 00:08:57,890
+saya orang yang sangat menyukai nonton maupun itu film ataupun
+
+75
+00:08:57,900 --> 00:09:02,890
+TV series ataupun tv show dari setiap
+
+76
+00:09:02,900 --> 00:09:07,390
+film-film saya tunggu saya pasti akan selalu memperhatikan Kapan tanggal
+
+77
+00:09:07,400 --> 00:09:09,990
+rilis dari film tersebut ataupun tv series tersebut.
+
+78
+00:09:11,700 --> 00:09:18,890
+Kalau boleh tahu genre apa yang paling disukai oleh user? saya
+
+79
+00:09:18,900 --> 00:09:21,190
+pribadi lebih menyukai
+
+80
+00:09:23,900 --> 00:09:26,290
+action ataupun komedi
+
+81
+00:09:29,600 --> 00:09:35,090
+drama ya begitu kalau
+
+82
+00:09:35,100 --> 00:09:40,490
+untuk user testing ini kan dibutuhkan share screen sementara
+
+83
+00:09:40,500 --> 00:09:46,590
+kan Sebelumnya saya sudah user testing kepada anda beberapa
+
+84
+00:09:46,600 --> 00:09:51,790
+hari yang lalu karena dikarenakan user testing ini
+
+85
+00:09:53,300 --> 00:09:55,490
+diperlukan sharescreen,
+
+86
+00:09:55,500 --> 00:10:01,790
+Apakah anda bersedia untuk share screen dari ponsel Anda? Saya
+
+87
+00:10:01,800 --> 00:10:06,890
+bersedia untuk dari ponsel saya. Baik untuk
+
+88
+00:10:06,900 --> 00:10:11,790
+share screennya dimulai dari playstore nya ya jangan dari aplikasinya dulu.
+
+89
+00:10:12,400 --> 00:10:18,190
+dari Playstore Jadi maksudnya screen
+
+90
+00:10:18,200 --> 00:10:22,990
+namun yang dicari itu nanti membuka aplikasi bell watchnya dari
+
+91
+00:10:23,000 --> 00:10:27,890
+playstore nya bukan dari aplikasinya langsung oke
