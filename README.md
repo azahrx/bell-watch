@@ -4,6 +4,9 @@ Bell Watch is an app that provides list of movies and TV shows which consists of
 ## Info
 The app is created using Android Studio in Java.
 
+## User Testing
+[Link to User Testing file](https://github.com/azahrx/bell-watch/tree/master/user)
+
 ## App Link
 [Link to Bell Watch App in Play Store](https://play.google.com/store/apps/details?id=com.main.mymovieapp)
 
