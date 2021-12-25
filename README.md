@@ -2,12 +2,10 @@
 Bell Watch is an app that provides list of movies and TV shows which consists of various details from title, cover, release date, rating, popularity, synopsis, trailer, clip, and other features. The app can make user add their favorite movies and TV shows to the list as bookmarks. User can share the details of the movies and TV shows to other social apps. The app also enable user to receive notifications to upcoming movies and TV shows.
 
 ## Info
-The app is created using
-+ Android Studio
-+ Java
+The app is created using Android Studio in Java.
 
 ## App Link
-[Click here to Bell Watch App](https://play.google.com/store/apps/details?id=com.main.mymovieapp)
+[Link to Bell Watch App in Play Store](https://play.google.com/store/apps/details?id=com.main.mymovieapp)
 
 ## Backend API
 API used for backend to fetch data for movies and TV shows is from [TheMovieDB](https://developers.themoviedb.org/4/getting-started/authorization)
